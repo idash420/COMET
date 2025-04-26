@@ -16162,26 +16162,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ajpic\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\HP\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ajpic\\OneDrive\\Documents\\cloneZACH\\capstone\\COMET\\COMET\\COMET.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Documents\\GitHub\\Newest Capstone\\COMET\\COMET\\COMET\\COMET.csproj",
       "projectName": "COMET",
-      "projectPath": "C:\\Users\\ajpic\\OneDrive\\Documents\\cloneZACH\\capstone\\COMET\\COMET\\COMET.csproj",
-      "packagesPath": "C:\\Users\\ajpic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ajpic\\OneDrive\\Documents\\cloneZACH\\capstone\\COMET\\COMET\\obj\\",
+      "projectPath": "C:\\Users\\HP\\Documents\\GitHub\\Newest Capstone\\COMET\\COMET\\COMET\\COMET.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HP\\Documents\\GitHub\\Newest Capstone\\COMET\\COMET\\COMET\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
-      "UsingMicrosoftNETSdk": false,
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ajpic\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -16195,11 +16189,6 @@
         "net472": {
           "projectReferences": {}
         }
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
